@@ -231,7 +231,7 @@ img {
   inset: 50% auto auto 50%;
   width: min(760px, 86vw);
   aspect-ratio: 1;
-  transform: translate(-50%, -46%);
+  transform: translate(-50%, -42%);
   filter: drop-shadow(0 0 36px rgba(255, 255, 255, 0.12));
   opacity: 0.96;
   pointer-events: none;
@@ -250,7 +250,7 @@ img {
   position: relative;
   z-index: 2;
   max-width: 840px;
-  margin-top: 4vh;
+  margin-top: -1vh;
   text-shadow: 0 4px 28px rgba(0, 0, 0, 0.72);
 }
 
@@ -772,11 +772,11 @@ h1 em {
 
   .hero-orb {
     width: min(540px, 94vw);
-    transform: translate(-50%, -44%);
+    transform: translate(-50%, -41%);
   }
 
   .hero-copy {
-    margin-top: 14vh;
+    margin-top: 10vh;
   }
 
   h1 {
@@ -839,11 +839,11 @@ h1 em {
 
   .hero-orb {
     width: min(430px, 96vw);
-    transform: translate(-50%, -40%);
+    transform: translate(-50%, -38%);
   }
 
   .hero-copy {
-    margin-top: 17vh;
+    margin-top: 12vh;
   }
 
   .eyebrow {
